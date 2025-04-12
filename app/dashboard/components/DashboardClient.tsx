@@ -46,6 +46,13 @@ export default function DashboardClient() {
             <p className="text-[18px] text-center text-white font-normal cursor-pointer">Product Management</p>
         </div>
     </div>
+    <div className="flex gap-2">
+        <div className="h-28 bg-white rounded-lg shadow-gray-500">
+            <div className="px-5 ">
+                <h1 className="text-center font-semibold ">Product Management</h1>    
+            </div>
+        </div>
+    </div>
     </>
   );
 }
